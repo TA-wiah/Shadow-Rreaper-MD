@@ -1,0 +1,6 @@
+services:
+  - name: SHADOW-REAPER-MD
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
