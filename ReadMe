@@ -69,16 +69,13 @@
 
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
-
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TA-wiah/Shadow-Rreaper-MD&template=https://github.com/TA-wiah/Shadow-Rreaper-MD.git)***
-
-<br>
+[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TA-wiah/Shadow-Rreaper-MD&template=https://github.com/TA-wiah/Shadow-Rreaper-MD.git)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
-**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
+### 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗
 <details>
 <summary>CLICK FOR MORE</summary>
 <a href="https://github.com/TA-wiah/Shadow-Rreaper-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
@@ -87,43 +84,6 @@
 </details
 
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [SHADOW-REAPER-MD(https://github.com/TA-wiah/Shadow-Rreaper-MD) ON ANY TERMINAL
-```
-sudo apt -y update && sudo apt -y upgrade
-```
-```
-sudo apt -y install git ffmpeg curl
-```
-```
-curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
-sudo -E bash nodesource_setup.sh
-```
-```
-sudo apt-get install -y nodejs
-```
-```
-sudo npm install -g yarn
-```
-```
-sudo yarn global add pm2
-```
-```
-git clone https://github.com/type-your-username-here/BADBOI-v1
-```
-```
-cd SHADOW-REAPER
-```
-```
-yarn install
-```
-```
-npm start
-```
- 
-
-
-</br>
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -162,7 +122,7 @@ pkg install wget
 pkg install yarn
 ```
 ```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
+git clone https://github.com/TA-wiah/Shadow-Rreaper-MD.git
 ```
 ```
 cd SHADOW-REAPER
