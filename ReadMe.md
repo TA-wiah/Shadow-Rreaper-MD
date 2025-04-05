@@ -143,6 +143,10 @@ npm i -g forever && forever index.js && forever save && forever logs
 <br>
 
 
+## FINAL REMARKS ON MY REPO (STATS)
+
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=TA-wiah&repo=Shadow-Rreaper-MD&show_owner=true&theme=dark)
+
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
