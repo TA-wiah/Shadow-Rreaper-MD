@@ -4,7 +4,7 @@
  
 <h1 align="center">Life isn’t fair, and it doesn’t owe you a damn thing. You either adapt, fight, and survive—or you get left behind. Stay sharp, stay strong, and never let the world break you. Keep pushing. Keep winning. 💯🔥 
 <br>
-<h6 font-size="6px">-Jeffrey Tottimeh</h6>
+                                                                   -Jeffrey Tottimeh
 </h1>
 
 
