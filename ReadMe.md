@@ -4,12 +4,13 @@
  
 <h1 align="center">Life isn’t fair, and it doesn’t owe you a damn thing. You either adapt, fight, and survive—or you get left behind. Stay sharp, stay strong, and never let the world break you. Keep pushing. Keep winning. 💯🔥 
 <br>
-                                                                   -Jeffrey Tottimeh
+<small></small>-Jeffrey Tottimeh</small>
 </h1>
-
-
-
-<a href="https://imgur.com/9uUP6sG" align="center"><img src="https://i.imgur.com/9uUP6sG.png" alt="01" border="0" align="center" /></a>                     
+<img src='https://i.imgur.com/LyHic3i.gif'/>
+<p align="center">
+  <a href="https://imgur.com/9uUP6sG"><img src="https://i.imgur.com/9uUP6sG.png" alt="01" border="0" /></a>    
+</p>
+            
 <img src='https://i.imgur.com/LyHic3i.gif'/>
  
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 SHADOW REAPER MD
@@ -180,8 +181,8 @@ We welcome you to contributions to **SHADOW-REAPER-MD**. If you encounter any bu
 
 <p align="center">
   <small>&copy; 2025 CODE BY JEFFREY TOTTIMEH /// SHADOW-REAPER-MD</small>
-</p>
 
-Enjoy the diverse features of SHADOW-REAPER-MD  to enhance your Whatsapp more enjoyable
+ Enjoy the diverse features of SHADOW-REAPER-MD  to enhance your Whatsapp more enjoyable
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
