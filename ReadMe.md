@@ -4,12 +4,12 @@
  
 <h1 align="center">Life isn’t fair, and it doesn’t owe you a damn thing. You either adapt, fight, and survive—or you get left behind. Stay sharp, stay strong, and never let the world break you. Keep pushing. Keep winning. 💯🔥 
 <br>
-<span>-Jeffrey Tottimeh</span>
+<h6 font-size="6px">-Jeffrey Tottimeh</h6>
 </h1>
 
 
 
-<a href="https://imgur.com/9uUP6sG"><img src="https://i.imgur.com/9uUP6sG.png" alt="01" border="0" /></a>                     
+<a href="https://imgur.com/9uUP6sG" align="center"><img src="https://i.imgur.com/9uUP6sG.png" alt="01" border="0" align="center" /></a>                     
 <img src='https://i.imgur.com/LyHic3i.gif'/>
  
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 SHADOW REAPER MD
@@ -54,16 +54,14 @@
 <img src='https://i.imgur.com/LyHic3i.gif'/>
 **👇FORK REPO**
 
-  
-
-<a href="https://github.com/TA-wiah/Shadow-Rreaper-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK KEITH" width="150"></a>
+<a href="https://github.com/TA-wiah/Shadow-Rreaper-MD/fork" align="center"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK KEITH" width="150"></a>
 
 
 <img src='https://i.imgur.com/LyHic3i.gif'/>
 <img src='https://i.imgur.com/LyHic3i.gif'/>
 
  <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://shadow-reaper-session-id.onrender.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://shadow-reaper-session-id.onrender.com/" align="center"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
 
@@ -83,7 +81,7 @@
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [SHADOW-REAPER-MD(https://github.com/TA-wiah/Shadow-Rreaper-MD) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [SHADOW-REAPER-MD](https://github.com/TA-wiah/Shadow-Rreaper-MD) ON ANY TERMINAL
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
